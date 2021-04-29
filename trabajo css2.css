@@ -1,0 +1,103 @@
+body{
+background: black;
+}
+.cuadro{
+	position: absolute;
+	height: 90%;
+	left: 1%;
+	right: 1%;
+	top: 1%;
+	background: red;
+}
+.titulito{
+	font-size: 60px;
+	color: black;	
+	position: absolute;
+	top: 1%;
+	left: 8%;
+	right: 34%;
+	width: 30%;
+	height: 15%;
+	border: solid 5px black;
+	padding-left:25px;
+	padding-top:2px;
+	padding-right:25px;
+	box-sizing: border-box;
+	background: gray;
+}
+.parrafito1{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	width: 34%;
+	height: 29%;
+	background:gray;
+	border: solid 4px;	
+}
+.foto1{
+position: absolute;
+	top: 60%;
+	left: 4%;
+	width: 15%;
+	height: 29%;
+	background: url("ft1s4.jpeg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.parrafito2{
+	position: absolute;
+    top: 60%;
+	left: 20%;
+	width: 15%;
+	height: 29%;
+	background:gray;
+	border: solid 5px black;
+}
+.cuadro2{	
+  	position: absolute;
+	top: 1%;
+	left: 58%;
+	height: 56%;
+	width: 40%;
+	border: solid 5px;
+	background: gray;
+}
+.foto2{
+position: absolute;
+	top: 26%;
+	left: 60%;
+	width: 15%;
+	height: 29%;
+	background: url("fs42.jpeg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.foto3{
+position: absolute;
+	top: 26%;
+	left: 80%;
+	width: 15%;
+	height: 29%;
+	background: url("fs34.jpeg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.parrafito3{
+	position: absolute;
+    top: 60%;
+	left: 58%;
+	width: 20%;
+	height: 29%;
+	background:gray;
+	border: solid 5px black;
+}	
+.foto4{
+position: absolute;
+	top: 60%;
+	left: 83%;
+	width: 15%;
+	height: 29%;
+	background: url("fs44.jpeg");
+	background-size: cover;
+	border: solid 5px black;
+}
